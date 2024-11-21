@@ -1,102 +1,104 @@
 # SDA_Individual Project
 # Author  :  Sanskriti Bahl
 # Roll number  :  045050
-Dataset :  World Population by country till 2020
-# Objective :  Examine countries with effective housing and development policies by analyzing population-related parameters
+Dataset :  Student Score Performance
+# Objective :  To analyze student performance data to uncover trends, evaluate demographic impacts, and identify actionable insights for enhancing educational outcomes and bridging achievement gaps.
 
 ### Interpretation and Managerial Insights for Each Graph:
 
 ---
 
-#### 1. Total Number of Countries (KPI)**
+#### 1. **Total Number of Students (KPI)**
    - **Interpretation**:
-     - The dataset includes data from **235 countries**.
+     - The dataset contains data on **1,000 students**.
    - **Managerial Insight**:
-     - **Actionable Insight**: This global coverage offers
-comprehensive insights, enabling cross-country comparisons and
-identifying regional trends for strategic decision-making.
+     - **Actionable Insight**: A large enough sample size ensures
+reliability and insights into student performance across various
+demographics.
 
 ---
 
-#### 2. **Average Fertility Rate (KPI)**
+#### 2. **Score Performance Analysis (Heatmap)**
    - **Interpretation**:
-     - The average fertility rate across countries is **2.69**. South Korea has the least fertility rate.
+     - This heatmap shows the distribution of **math** and **reading**
+scores. The darker areas represent higher total scores.
    - **Managerial Insight**:
-     - **Actionable Insight**: Countries with fertility rates above or
-below the average may require specific policies. Higher rates could
-signify growing populations, needing investment in infrastructure,
-while lower rates could lead to aging population challenges.
+     - **Actionable Insight**: Identify students excelling or
+struggling in specific areas to allocate resources effectively, such
+as tutoring programs for underperforming students.
 
 ---
 
-#### 3. **Average Land (Square Km) (KPI)**
+#### 3. **Lunch and Test Preparation Based on Race and Ethnicity (Bar Chart)**
    - **Interpretation**:
-     - The average land area per country is **326.27 square kilometers**.
+     - Students who underwent test preparation scored higher overall.
+The performance also varies across racial and ethnic groups.
    - **Managerial Insight**:
-     - **Actionable Insight**: Smaller nations may face resource
-constraints, whereas larger countries may need robust infrastructure
-planning to ensure resource distribution and accessibility.
+     - **Actionable Insight**: Encourage participation in test
+preparation programs, especially among underperforming groups, to
+bridge performance gaps.
 
 ---
 
-#### 4. **Country-wise Fertility Rate (World Map)**
+#### 4. **Demographic Distribution Based on Total Scores (Donut Chart)**
    - **Interpretation**:
-     - Fertility rates are visually represented, with darker colors
-indicating higher fertility. Fertility rates appear higher in Africa
-and parts of Asia and lower in Europe and North America.
+     - Performance is distributed across different racial and ethnic
+groups, with some groups scoring higher on average.
    - **Managerial Insight**:
-     - **Actionable Insight**: Regions with high fertility rates may
-need investments in healthcare, education, and child welfare, while
-regions with low fertility rates may focus on immigration policies or
-incentives for families.
+     - **Actionable Insight**: Use this information to design
+equitable learning opportunities tailored to the needs of specific
+groups.
 
+---
 
-
-#### 5. **Urban Population by Country (Bar Chart)**
+#### 5. **Average Math Score (Gauge Chart)**
    - **Interpretation**:
-     - Most countries have an urban population percentage between
-**60-80%**, with few having extreme values.
+     - The average math score is **66.09**, a significant component of
+the total average score of **203.31**.
    - **Managerial Insight**:
-     - **Actionable Insight**: Countries with high urban populations
-may prioritize urban planning and housing, while rural-focused nations
-should invest in rural development and connectivity.
+     - **Actionable Insight**: Focus on improving math education
+through targeted strategies, such as gamified learning or additional
+practice material.
 
+---
 
-
-#### 6. **Number of Net Migrants (Line Chart)**
+#### 6. **Mark Distribution of Students (Table)**
    - **Interpretation**:
-     - Most countries have minimal net migration. A few outliers show
-significant positive or negative migration values.
+     - The majority of students scored between **50-60 marks**, with
+fewer students scoring in the lower or higher ranges.
    - **Managerial Insight**:
-     - **Actionable Insight**: Positive net migration could indicate
-attractive economic opportunities or policies, whereas negative
-migration may require addressing root causes like political
-instability or lack of opportunities.
+     - **Actionable Insight**: This trend suggests opportunities to
+push the mid-tier performers toward higher achievement with better
+engagement and support.
 
+---
 
-
-#### 7. **Median Age Country-wise (Bar Chart)**
+#### 7. **Average Scores Based on Race (Bar Chart)**
    - **Interpretation**:
-     - Countries like **Japan** and **Hungary** have the highest
-median ages, while nations like **Niger** and **Somalia** have the
-lowest.
+     - Average scores vary among racial and ethnic groups, with
+certain groups consistently outperforming others.
    - **Managerial Insight**:
-     - **Actionable Insight**: Older populations (higher median age)
-may require investments in healthcare and pension systems, while
-younger populations could focus on education, employment, and skill
-development.
+     - **Actionable Insight**: Develop culturally responsive teaching
+strategies and allocate resources to address disparities.
 
+---
 
-
-#### 8. **Country-wise Median Age with Respect to Fertility Rate (Bar Chart)**
+#### 8. **Correlation Between Parental Education and Performance (Word
+Cloud)**
    - **Interpretation**:
-     - Countries with higher median ages tend to have lower fertility
-rates, highlighting an inverse relationship.
+     - Students with parents who hold **master’s degrees** or
+**college degrees** tend to perform better on average.
    - **Managerial Insight**:
-     - **Actionable Insight**: Policymakers can use this trend to
-forecast demographic transitions. Nations with declining fertility and
-higher median age may need to explore immigration or family-supportive
-policies to maintain workforce levels.
+     - **Actionable Insight**: Engage parents through workshops or
+programs emphasizing the importance of educational support at home.
+
+---
+
+### Summary for Managers:
+This dashboard provides a comprehensive view of student performance,
+revealing key demographic and academic trends. These insights can
+guide interventions to improve test preparation participation, address
+performance disparities, and enhance overall student outcomes.
 
 
 
