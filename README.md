@@ -2,6 +2,7 @@
 # Author  :  Sanskriti Bahl
 # Roll number  :  045050
 Dataset :  World Population by country till 2020
+# Objective :  Examine countries with effective housing and development policies by analyzing population-related parameters
 
 ### Interpretation and Managerial Insights for Each Graph:
 
