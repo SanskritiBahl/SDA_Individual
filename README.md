@@ -1,20 +1,29 @@
-# SDA_Individual Project
-# Author  :  Sanskriti Bahl
-# Roll number  :  045050
-Dataset :  Student Score Performance
+### SDA_Individual Project
+### Author  :  Sanskriti Bahl
+### Roll number  :  045050
+
+## Dataset :  Student Score Performance
 
 Objective :  To analyze student performance data to uncover trends, evaluate demographic impacts, and identify actionable insights for enhancing educational outcomes and bridging achievement gaps.
 
 
 
 Questions Catering to each an every graph : 
+
 Question 1 :  How many students are represented in the dataset, and is this sample size sufficient for making reliable conclusions?
+
 Question 2 : What are the trends in math and reading score distributions, and which areas reflect stronger or weaker performance?
+
 Question 3 : Does test preparation improve scores across all demographics, and are there disparities in participation rates among racial and ethnic groups?
+
 Question 4 :  How are total scores distributed across racial and ethnic groups, and what insights can be drawn about performance equity?
+
 Question 5 : What is the average math score, and how does it compare to other components of student performance?
+
 Question 6 : What is the distribution of marks among students, and which ranges have the most students?
+
 Question 7 : How do average scores differ among racial and ethnic groups, and what might be contributing to these disparities?
+
 Question 8 : How does parental education level influence student performance, and which levels show the strongest correlations?
 
 ![Final Dashboard](https://github.com/user-attachments/assets/6421d095-80bd-4441-966a-8c9c3ea89f1c)
