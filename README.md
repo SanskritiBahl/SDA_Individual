@@ -108,8 +108,7 @@ strategies and allocate resources to address disparities.
 
 ---
 
-#### 8. **Correlation Between Parental Education and Performance (Word
-Cloud)**
+#### 8. Correlation Between Parental Education and Performance (Word Cloud)**
    - **Interpretation**:
      - Students with parents who hold **master’s degrees** or
 **college degrees** tend to perform better on average.
