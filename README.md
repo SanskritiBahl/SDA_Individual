@@ -3,6 +3,8 @@
 # Roll number  :  045050
 Dataset :  Student Score Performance
 # Objective :  To analyze student performance data to uncover trends, evaluate demographic impacts, and identify actionable insights for enhancing educational outcomes and bridging achievement gaps.
+![Final Dashboard](https://github.com/user-attachments/assets/6421d095-80bd-4441-966a-8c9c3ea89f1c)
+
 
 ### Interpretation and Managerial Insights for Each Graph:
 
