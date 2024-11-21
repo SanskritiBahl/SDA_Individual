@@ -20,7 +20,7 @@ identifying regional trends for strategic decision-making.
 
 #### 2. **Average Fertility Rate (KPI)**
    - **Interpretation**:
-     - The average fertility rate across countries is **2.69**.
+     - The average fertility rate across countries is **2.69**. South Korea has the least fertility rate.
    - **Managerial Insight**:
      - **Actionable Insight**: Countries with fertility rates above or
 below the average may require specific policies. Higher rates could
