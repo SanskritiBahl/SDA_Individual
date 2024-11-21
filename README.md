@@ -4,6 +4,9 @@
 Dataset :  Student Score Performance
 
 Objective :  To analyze student performance data to uncover trends, evaluate demographic impacts, and identify actionable insights for enhancing educational outcomes and bridging achievement gaps.
+
+
+
 Questions Catering to each an every graph : 
 Question 1 :  How many students are represented in the dataset, and is this sample size sufficient for making reliable conclusions?
 Question 2 : What are the trends in math and reading score distributions, and which areas reflect stronger or weaker performance?
